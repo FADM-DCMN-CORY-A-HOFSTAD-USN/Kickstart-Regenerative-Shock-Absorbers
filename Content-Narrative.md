@@ -49,12 +49,3 @@ bitter_coil_stack();
 
 ---
 
-### Prototype Imagery Descriptions
-
-To populate your GitHub with visuals, you can generate images or mockups based on these specific technical scenes:
-
-1. **The Coil Assembly:** A macro shot of the 14 AWG square copper wire wound in a Bitter-style stack, showing the precision of the 320 turns within the compact housing.
-2. **The Bench Test:** A high-speed capture of the shock absorber on a vibration table, with a digital oscilloscope in the background showing the 48V/5A power spikes during rapid compression.
-3. **Cross-Section Render:** A technical cutaway showing the permanent magnet piston moving through the electromagnetic field, highlighting the lack of hydraulic fluid.
-
-### Next Steps for the Repository
