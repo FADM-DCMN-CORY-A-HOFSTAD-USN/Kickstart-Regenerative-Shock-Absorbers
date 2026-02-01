@@ -13,7 +13,7 @@ The core value proposition of this project is the "Solid State" transition from 
 
 ### SCAD Design Framework (OpenSCAD)
 
-You can use the following logic to generate your 3D models for the dash-12 equivalent housing.
+3D models for the dash-12 equivalent housing.
 
 ```openscad
 // Kickstart Regenerative Shock - Housing Specs
